@@ -1,7 +1,5 @@
 #!/bin/bash
-#download files from a web page
-#Download the contents of a URL to a file (named "bar" in this case):
- #wget --output-document {{bar}} {{https://example.com/foo}}
+
 
 URL=$1
 
