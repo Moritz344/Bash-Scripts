@@ -3,8 +3,6 @@ clear
 cowsay Welcome to the Bash Math Game
 echo ""
 
-# TODO: add rpg style exp und level speichern mit text datei
-
 STREAK=0
 EXP=0
 LEVEL=0
